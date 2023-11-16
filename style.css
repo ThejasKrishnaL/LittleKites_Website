@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Ubuntu&display=swap');
+
+* {
+  font-family: 'Popppins' , sans-serif;
+}
+
+.nav-logo {
+  height: 90px;
+  width: 114px;
+}
+
+.title {
+  text-align: center;
+  color: blueviolet;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title-2 {
+  text-align: center;
+  color:white;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.title-1 {
+  text-align: center;
+  color: blueviolet;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1.5px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.info-cards_km {
+  margin-left: 328px;
+}
+
+.info-cards_et {
+  margin-left: 336px;
+}
+
+.btn-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer h1 {
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1.5px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer a:hover {
+  color: blue;
+  transition: all 0.4s ease 0s;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  padding-top: 2px;
+}
+
+.social a {
+  text-decoration: none;
+  color: black;
+}
+
+.social a:hover {
+  color: skyblue;
+  transition: all 0.4s ease 0s ;
+}
