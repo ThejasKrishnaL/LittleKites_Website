@@ -23,7 +23,9 @@
   color:white;
   font-size: 30px;
   font-weight: bold;
+  font-style: italic;
   letter-spacing: 1.5px;
+  text-transform: uppercase;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -34,7 +36,7 @@
   font-size: 40px;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
-  letter-spacing: 1.5px;
+  letter-spacing: 2px;
   font-style: italic;
   text-transform: uppercase;
 }
@@ -56,6 +58,7 @@
 .footer h1 {
   text-align: center;
   font-size: 18px;
+  height: 50px;
   letter-spacing: 1.5px;
   background-color: black;
   color: white;
@@ -87,4 +90,19 @@
 .social a:hover {
   color: skyblue;
   transition: all 0.4s ease 0s ;
+}
+
+
+#contact-us  {
+  width: 100%;
+  margin: 50px 0px;
+}
+
+
+
+
+.group-img {
+  color: lightblue;
+  height: 500px;
+  width: 1000px;
 }
